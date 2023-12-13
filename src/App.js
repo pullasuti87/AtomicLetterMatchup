@@ -14,6 +14,7 @@ function App() {
         setWord1(createTextBox(first))
         setWord2(createTextBox(second))
     }
+
     return (
         <div className="container">
             <div className="word-container">
